@@ -139,3 +139,69 @@ gap: 24px;
     padding: 20px;
     text-align: center;
 }
+/* resume section start */
+.resume-container{
+    display:flex;
+    gap:24px;
+}
+.experience-description{
+    color:#757575;
+}
+.experience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin:30px 0;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    color:#474747;
+}
+.resume-download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 113px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.resume-colum-tittle{
+    color: #474747;
+    font-size: 30px;
+    font-weight: bold;
+}
+/* footer style */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-colum{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"],textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding:10px 20px ;
+    margin-bottom: 24px;
+    border:none;
+}
+.tk{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.pic{
+    margin-right: 24px;
+}
